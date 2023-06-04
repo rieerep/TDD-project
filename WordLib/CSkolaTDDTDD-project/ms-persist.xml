@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PendingCommit>
+  <CommitComment>push two repos with test</CommitComment>
+  <WorkItems />
+  <PinnedBranches />
+  <PublishPrompt Enabled="True" />
+  <RepositorySorts>
+    <RepositorySort RepositoryPath="C:\Skola\Inlämningsuppgift\WordLibTest" Before="True" />
+  </RepositorySorts>
+</PendingCommit>
