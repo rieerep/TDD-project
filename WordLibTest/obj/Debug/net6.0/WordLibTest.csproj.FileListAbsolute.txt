@@ -202,12 +202,9 @@ C:\Skola\TDD\WordLibTest\obj\Debug\net6.0\refint\WordLibTest.dll
 C:\Skola\TDD\WordLibTest\obj\Debug\net6.0\WordLibTest.pdb
 C:\Skola\TDD\WordLibTest\obj\Debug\net6.0\WordLibTest.genruntimeconfig.cache
 C:\Skola\TDD\WordLibTest\obj\Debug\net6.0\ref\WordLibTest.dll
-C:\Skola\TDD\TDD-project\WordLibTest\obj\Debug\net6.0\WordLibTest.dll
-C:\Skola\TDD\TDD-project\WordLibTest\obj\Debug\net6.0\refint\WordLibTest.dll
-C:\Skola\TDD\TDD-project\WordLibTest\obj\Debug\net6.0\WordLibTest.pdb
 C:\Skola\TDD\TDD-project\WordLibTest\bin\Debug\net6.0\CoverletSourceRootsMapping
-C:\Skola\TDD\TDD-project\WordLibTest\bin\Debug\net6.0\testhost.exe
 C:\Skola\TDD\TDD-project\WordLibTest\bin\Debug\net6.0\testhost.dll
+C:\Skola\TDD\TDD-project\WordLibTest\bin\Debug\net6.0\testhost.exe
 C:\Skola\TDD\TDD-project\WordLibTest\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
 C:\Skola\TDD\TDD-project\WordLibTest\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
 C:\Skola\TDD\TDD-project\WordLibTest\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
@@ -302,5 +299,8 @@ C:\Skola\TDD\TDD-project\WordLibTest\obj\Debug\net6.0\WordLibTest.AssemblyInfoIn
 C:\Skola\TDD\TDD-project\WordLibTest\obj\Debug\net6.0\WordLibTest.AssemblyInfo.cs
 C:\Skola\TDD\TDD-project\WordLibTest\obj\Debug\net6.0\WordLibTest.csproj.CoreCompileInputs.cache
 C:\Skola\TDD\TDD-project\WordLibTest\obj\Debug\net6.0\WordLibTest.csproj.CopyComplete
+C:\Skola\TDD\TDD-project\WordLibTest\obj\Debug\net6.0\WordLibTest.dll
+C:\Skola\TDD\TDD-project\WordLibTest\obj\Debug\net6.0\refint\WordLibTest.dll
+C:\Skola\TDD\TDD-project\WordLibTest\obj\Debug\net6.0\WordLibTest.pdb
 C:\Skola\TDD\TDD-project\WordLibTest\obj\Debug\net6.0\WordLibTest.genruntimeconfig.cache
 C:\Skola\TDD\TDD-project\WordLibTest\obj\Debug\net6.0\ref\WordLibTest.dll
